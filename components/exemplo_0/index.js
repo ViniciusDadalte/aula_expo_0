@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native';
 
-function exemplo_0 () {
+function Exemplo_0 () {
     return(
         <View>
-            <Text>Hello wolrd! :D</Text>
+            <Text style={{color:'pink'}} >Hello wolrd! :D</Text>
         </View>
     );
 }
-export default exemplo_0;
+export default Exemplo_0;
