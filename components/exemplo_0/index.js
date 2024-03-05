@@ -1,9 +1,11 @@
 import { View, Text } from 'react-native';
 
+import styles from './styles';
+
 function Exemplo_0 () {
     return(
-        <View>
-            <Text style={{color:'pink'}} >Hello wolrd! :D</Text>
+        <View style={styles.container}>
+            <Text style={styles.texto}>Hello wolrd! :D</Text>
         </View>
     );
 }
