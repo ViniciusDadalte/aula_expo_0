@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
         borderRadius:20,
     },
     texto:{
-        color:'#fff',
+        color:'darkblue',
         fontSize:20,
     },
 });
