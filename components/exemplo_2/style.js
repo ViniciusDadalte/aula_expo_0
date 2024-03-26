@@ -24,6 +24,8 @@ const styles = StyleSheet.create({
         backgroundColor:'lightgrey',
         border:'1px solid black',
         borderRadius:20,
+        borderColor: 'orange',
+        borderWidth: 2,
     },
     mensage: {
         fontSize: 25,
