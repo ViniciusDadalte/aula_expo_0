@@ -6,12 +6,12 @@ const styles = StyleSheet.create({
         padding: 10,
         borderRadius:20,
     },
-    texto1:{
+    texto1: {
         color:'darkgreen',
         fontSize:20,
         fontWeight:'bolder',
     },
-    texto2:{
+    texto2: {
         color:'black',
         fontSize:20,
         fontWeight:'bold',
