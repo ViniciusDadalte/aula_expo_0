@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
         borderRadius:20,
         borderColor: 'orange',
         borderWidth: 2,
+        margin: '10px',
     },
     mensage: {
         fontSize: 25,
