@@ -8,7 +8,7 @@ function Atividade_2(){
         <View style={styles.container}>
             <Text style={styles.titulo}>Olá senhores</Text>
             <Mensagem fruta = 'maça' nome = 'vinicius'/>
-            <Mensagem fruta = 'a ivoneide' nome = 'jesus'/>
+            <Mensagem fruta = 'carambolas' nome = 'jesus'/>
             <Mensagem fruta = 'uva' nome = 'vitor'/>
         </View>
     );
