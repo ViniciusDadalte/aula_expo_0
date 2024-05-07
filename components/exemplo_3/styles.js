@@ -20,7 +20,15 @@ const styles = StyleSheet.create({
         width: '80%',
         borderRadius: 20,
         alignItems: 'center',
+        borderColor: '#673ab7',
     },
+    txtBotao: {
+        fontSize: 25,
+        color: '#673ab7',
+    },
+    botaoPress: {
+        backgroundColor: '#fff',
+    }
 });
 
 export default styles;
