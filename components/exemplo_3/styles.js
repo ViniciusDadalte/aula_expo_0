@@ -28,7 +28,12 @@ const styles = StyleSheet.create({
     },
     botaoPress: {
         backgroundColor: '#fff',
-    }
+    },
+    txtNumero: {
+        fontSize: 35,
+        color: 'purple',
+        marginVertical: 10,
+    },
 });
 
 export default styles;
