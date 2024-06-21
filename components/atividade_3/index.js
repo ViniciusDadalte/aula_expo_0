@@ -18,7 +18,8 @@ function Atividade_3() {
         setNumero(numero - 1);
     }
 
-    function zerar() {
+    function zerar() 
+    {
         setNumero(numero - numero);
     }
 

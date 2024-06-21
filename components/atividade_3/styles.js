@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     containerNumeros: {
-        display: 'inline-block',
+        flexDirection: 'row'
     },
     titulo: {
         color:'#673ab7',
@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
     txtBotao: {
         fontSize: 25,
         color: '#673ab7',
+        userSelect: 'none',
     },
     botaoPress: {
         backgroundColor: '#fff',
@@ -51,6 +52,8 @@ const styles = StyleSheet.create({
         fontSize: 35,
         color: 'purple',
         marginVertical: 10,
+        userSelect: 'none',
+        marginTop: 40
     },
 });
 
